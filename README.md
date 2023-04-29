@@ -5,14 +5,17 @@ __Links__
 
 - __[YouTube](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)__ - Tutorials
 
-![Bolted connection deformation up to bolt failure](PS245.gif "Bolted connection deformation up to bolt failure")
+![Bolted connection deformation up to bolt failure](assets/PS245.gif "Bolted connection deformation up to bolt failure")
 
 ---
 
 # Software and Computer Tools
 ## II-DAP
+![II-DAP](assets/II-DAP.jpg "II-DAP")
 ## FM-2D
+![FM-2D](assets/FM-2D.jpg "FM-2D")
 ## EaRL
+![EaRL](assets/EaRL.jpg "EaRL")
 ## SRConED
 ## ABAQUS Tools
 
@@ -149,7 +152,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![EaRL](assets/EaRL.jpg "EaRL")
 
 Like links, Images also have a footnote style syntax
 
