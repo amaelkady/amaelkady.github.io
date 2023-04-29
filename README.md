@@ -5,19 +5,21 @@ __Links__
 
 - __[YouTube](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)__ - Tutorials
 
-![Bolted connection deformation up to bolt failure](\assets\PS245.gif "Bolted connection deformation up to bolt failure")
+![Bolted connection deformation up to bolt failure](assets/PS245.gif "Bolted connection deformation up to bolt failure")
 
 ---
 
 # Software and Computer Tools
 ## II-DAP
-![II-DAP](\assets\II-DAP.jpg "II-DAP")
+<img src="assets/II-DAP.png"  width="60%" height="30%">
 ## FM-2D
-![FM-2D](\assets\FM-2D.jpg "FM-2D")
+<img src="assets/FM-2D.png"  width="30%" height="15%">
 ## EaRL
-![EaRL](\assets\EaRL.jpg "EaRL")
+<img src="assets/EaRL.png"  width="30%" height="15%">
 ## SRConED
+<img src="assets/SRConED.png"  width="30%" height="15%">
 ## ABAQUS Tools
+<img src="assets/ABAQUS Tools.png"  width="60%" height="30%">
 
 ### h3 Heading
 #### h4 Heading
