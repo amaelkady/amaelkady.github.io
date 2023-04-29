@@ -4,7 +4,8 @@
 __Links__
 
 - __[YouTube](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)__ - Tutorials
-![Alt Text](PS245.gif)
+
+- ![Alt Text](PS245.gif)
 ---
 
 # h1 Heading 8-)
