@@ -4,7 +4,7 @@
 __Links__
 
 - __[YouTube](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)__ - Tutorials
-
+![Alt Text](PS243.gif)
 ---
 
 # h1 Heading 8-)
@@ -142,7 +142,6 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
