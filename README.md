@@ -5,8 +5,11 @@ __Links__
 
 - __[YouTube](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)__ - Tutorials
 
-![Bolted connection deformation up to bolt failure](PS245.gif)
+![Bolted connection deformation up to bolt failure](PS245.gif "Bolted connection deformation up to bolt failure")
+
 <img src="PS245.gif" width="40" height="40" />
+
+
 ---
 
 # h1 Software and Computer Tools
