@@ -7,9 +7,6 @@ __Links__
 
 ![Bolted connection deformation up to bolt failure](PS245.gif "Bolted connection deformation up to bolt failure")
 
-<img src="PS245.gif" width="40" height="40" />
-
-
 ---
 
 # h1 Software and Computer Tools
